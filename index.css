@@ -1,0 +1,9 @@
+body {
+    padding-top: 70px;
+}
+
+.hold {
+    height: 2000px;
+    width: 100%;
+    background-color: blue;
+}
